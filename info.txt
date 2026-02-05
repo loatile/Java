@@ -1,0 +1,1 @@
+Basic application for collecting member names and saving them to a txt file
